@@ -5,5 +5,7 @@ This Google Chrome extension adds a button to the toolbar which allows you to se
 
 You will find the extension at [Google Chrome Web Store](https://chrome.google.com/webstore/detail/send-url-by-email/mekllbldjjejnkmomdclgkomcnlbddfj).
 
+...and now also at [Microsoft Edge-Add-Ons](https://microsoftedge.microsoft.com/addons/detail/kncmeaikagaadnmlkglpfddfffmkoijj) site.
+
 ![Screenshot](Screenshot2.png)
 
