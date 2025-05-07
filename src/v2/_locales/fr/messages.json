@@ -1,0 +1,14 @@
+{
+   "extaction": {
+      "description": "Libéllé de l'action",
+      "message": "Envoyer l'url par Email"
+   },
+   "extdesc": {
+      "description": "Description de l'extension",
+      "message": "Envoyer l'url par Email à partir de la barre d'outils"
+   },
+   "extname": {
+      "description": "Nom de l'extension",
+      "message": "Envoyer l'url par Email"
+   }
+}
